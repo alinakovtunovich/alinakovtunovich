@@ -4,7 +4,7 @@
 </div>
 
 
-iOS Developer
+  Junior iOS Developer
 
 🏙 Kazan
 
