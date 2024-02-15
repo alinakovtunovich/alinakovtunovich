@@ -6,21 +6,24 @@
 
 iOS Developer
 
-📚 обучаюсь в Школе 21 - образовательный проект от Сбера для программистов
+🏙 Kazan
 
 ☕️ Люблю кофе
 
-🏙 Kazan
-
 📫 Свяжитесь со мной: <a href="https://t.me/kasalina">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="width: 80px; height: auto;">
-</a>| [![mybadge]( https://badgen.net/badge/mail/mail/orange?icon=apple&label)](alinakovtunovich@yandex.ru)
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="width: 110px; height: auto;">
+</a> [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:alinakovtunovich@yandex.ru)
+
+
+📚 обучаюсь в "Школе 21" - образовательный IT-проект от Сбера
 
 __Skills:__
 <div id="header" align="left">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" style="width: 60px; height: auto;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" style="width: 60px; height: auto;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" style="width: 60px; height: auto;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" style="width: 60px; height: auto;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" style="width: 60px; height: auto;"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" style="width: 60px; height: auto;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" style="width: 60px; height: auto;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" style="width: 60px; height: auto;"/>
+  
 </div>
